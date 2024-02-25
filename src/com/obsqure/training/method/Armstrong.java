@@ -19,4 +19,5 @@ public class Armstrong {
 			System.out.println(originalNumber + " is not an Armstrong number.");
 		}
 	}
+	
 }
